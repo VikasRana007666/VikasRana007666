@@ -20,12 +20,6 @@ I'm a Full-Stack Web Developer and programmer with a strong focus on building cl
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikasRana007666&show_icons=true&theme=tokyonight" alt="Vikas's GitHub Stats" />
-</p>
-
 ### 📫 Let's Connect
 *   **Website:** [katchycloth.in](https://katchycloth.in/)
 *   **LinkedIn:** [Vikas Kaimwal](https://www.linkedin.com/in/vikas-kaimwal-93214818a/)
