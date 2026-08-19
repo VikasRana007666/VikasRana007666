@@ -4,9 +4,9 @@ I'm a Full-Stack Web Developer and programmer with a strong focus on building cl
 
 ### 👨‍💻 What I do
 *   **Web Development:** Crafting robust applications using Laravel, Node.js, and React.
-*   **UI/Design:** Building responsive interfaces with a strict preference for pure **Bootstrap 5** utility classes and dark mode themes. 
+*   **UI/Design:** Building responsive interfaces with a strict preference for pure **Bootstrap 5**, **Bootstrap Icons**, **JQuery** utility classes and dark mode themes. 
 *   **Content & SEO:** Developing platforms designed to capture hidden keyword demand and rank efficiently.
-*   **AI Exploration:** Running and fine-tuning image-to-video and text-to-video generation scripts (Veo, LTX, ComfyUI) via Google Colab.
+*   **AI Exploration:** Running and fine-tuning image-to-video and text-to-video generation scripts (Veo, Wan 2.1, ComfyUI) via Google Colab.
 
 ### 🛠️ My Tech Stack
 
@@ -17,6 +17,7 @@ I'm a Full-Stack Web Developer and programmer with a strong focus on building cl
   <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
 ### 📊 GitHub Stats
