@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=200&section=header&text=Hi%20There,%20I'm%20Vikas%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20SEO%20Architect%20%7C%20AI%20Explorer&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+clean%2C+SEO-optimized+web+apps;Laravel+%7C+Node.js+%7C+React+Developer;Exploring+Generative+AI+Video+Models;Law+Student+by+Night+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+clean%2C+SEO-optimized+web+apps;Laravel+%7C+Node.js+%7C+React+Developer;Exploring+Generative+AI+Video+Models" alt="Typing SVG" />
 
 </div>
 
@@ -24,11 +24,6 @@ I'm a **Full-Stack Web Developer** with a strong focus on building clean, **SEO-
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧵 Katchy Cloth</h3>
-      <p>An SEO-driven e-commerce / content platform built to capture organic keyword demand.</p>
-      <a href="https://katchycloth.in/"><img src="https://img.shields.io/badge/Visit-katchycloth.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
-    </td>
     <td width="50%" valign="top">
       <h3>🗂️ Vikas Kaimwal CMS</h3>
       <p>A custom CMS platform inspired by WordPress, built from the ground up on <b>Laravel 12</b>.</p>
@@ -63,25 +58,9 @@ I'm a **Full-Stack Web Developer** with a strong focus on building clean, **SEO-
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikaskaimwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskaimwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaskaimwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</div>
-
-> ℹ️ Replace `vikaskaimwal` above with your actual GitHub username if different, so the stats widgets pull your real data.
-
-<br/>
-
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://katchycloth.in/"><img src="https://img.shields.io/badge/Website-katchycloth.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
   <a href="https://vikaskaimwal.co.in/"><img src="https://img.shields.io/badge/Portfolio-vikaskaimwal.co.in-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20" /></a>
   <a href="https://www.linkedin.com/in/vikas-kaimwal-93214818a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
