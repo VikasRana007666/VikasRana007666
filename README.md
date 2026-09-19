@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** specializing in robust **Django architectures**, modern APIs, enterprise CMS platforms, and high-performance web applications[cite: 1]. When I'm not architecting scalable content ecosystems[cite: 1], I'm experimenting with the latest generative AI media models.
+I'm a **Full-Stack Software Engineer** specializing in robust **Django architectures**, modern APIs, enterprise CMS platforms, and high-performance web applications. When I'm not architecting scalable content ecosystems, I'm experimenting with the latest generative AI media models.
 
-- 🔭 Architecting enterprise-grade platforms using **Python 3, Django 5, Laravel, and React**[cite: 1]
+- 🔭 Architecting enterprise-grade platforms using **Python 3, Django 5, Laravel, and React**
 - 🎨 Building responsive interfaces strictly with pure **Bootstrap 5** utility classes — dark mode always on
-- 🛒 Engineering scalable e-commerce solutions with authentic WordPress & WooCommerce editing workflows[cite: 1]
+- 🛒 Engineering scalable e-commerce solutions with authentic WordPress & WooCommerce editing workflows
 - 🤖 Running and fine-tuning image-to-video / text-to-video models (**Veo, LTX-2.3, ComfyUI**) via Google Colab
 - ⚖️ Pursuing an LL.B. degree alongside my dev career
 
@@ -26,8 +26,8 @@ I'm a **Full-Stack Software Engineer** specializing in robust **Django architect
   <tr>
     <td width="50%" valign="top">
       <h3>🗂️ Vikas Django WordPress & WooCommerce Platform</h3>
-      <p>An enterprise-grade Content Management & E-Commerce platform architected entirely on <b>Python 3 and Django 5</b>[cite: 1]. Engineered to provide the publishing flexibility and catalog modulations of WordPress and WooCommerce combined with the strict type safety, ORM scalability, granular RBAC, and rapid performance of Django[cite: 1].</p>
-      <a href="https://vikaskaimwal.co.in/"><img src="https://img.shields.io/badge/Visit-vikaskaimwal.co.in-0f172a?style=for-the-badge&logo=django&logoColor=092E20" /></a>
+      <p>An enterprise-grade Content Management & E-Commerce platform architected entirely on <b>Python 3 and Django 5</b>. Engineered to provide the publishing flexibility and catalog modulations of WordPress and WooCommerce combined with the strict type safety, ORM scalability, granular RBAC, and rapid performance of Django.</p>
+      <a href="https://vikaskaimwal-co-in.onrender.com/"><img src="https://img.shields.io/badge/Visit-vikaskaimwal.co.in-0f172a?style=for-the-badge&logo=django&logoColor=092E20" /></a>
     </td>
   </tr>
 </table>
@@ -60,7 +60,7 @@ I'm a **Full-Stack Software Engineer** specializing in robust **Django architect
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://vikaskaimwal.co.in/"><img src="https://img.shields.io/badge/Portfolio-vikaskaimwal.co.in-0f172a?style=for-the-badge&logo=django&logoColor=092E20" /></a>
+  <a href="https://vikaskaimwal-co-in.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-vikaskaimwal.co.in-0f172a?style=for-the-badge&logo=django&logoColor=092E20" /></a>
   <a href="https://www.linkedin.com/in/vikas-kaimwal-93214818a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
